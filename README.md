@@ -63,7 +63,7 @@ For a window of size `W`, the [arithmetic mean][arithmetic-mean] of absolute val
 ## Usage
 
 ```javascript
-import incrmmeanabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-mmeanabs@esm/index.mjs';
+import incrmmeanabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-mmeanabs@v0.2.2-esm/index.mjs';
 ```
 
 #### incrmmeanabs( window )
@@ -133,7 +133,7 @@ mu = accumulator();
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import incrmmeanabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-mmeanabs@esm/index.mjs';
+import incrmmeanabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-mmeanabs@v0.2.2-esm/index.mjs';
 
 var accumulator;
 var v;
